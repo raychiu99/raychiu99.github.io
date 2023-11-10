@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.14720e9b.js",
+    "main.js": "/static/js/main.6ddf52be.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/js/64.dacee772.chunk.js": "/static/js/64.dacee772.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.0d1a3fde.chunk.js": "/static/js/769.0d1a3fde.chunk.js",
+    "static/js/769.e1dfd0cc.chunk.js": "/static/js/769.e1dfd0cc.chunk.js",
     "static/media/ucscLogo.png": "/static/media/ucscLogo.3379215eec7936125e5a.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/uscLogo.png": "/static/media/uscLogo.e439e4ee5794eb29dcb7.png",
@@ -23,14 +23,14 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.14720e9b.js.map": "/static/js/main.14720e9b.js.map",
+    "main.6ddf52be.js.map": "/static/js/main.6ddf52be.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "64.dacee772.chunk.js.map": "/static/js/64.dacee772.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.0d1a3fde.chunk.js.map": "/static/js/769.0d1a3fde.chunk.js.map"
+    "769.e1dfd0cc.chunk.js.map": "/static/js/769.e1dfd0cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.14720e9b.js"
+    "static/js/main.6ddf52be.js"
   ]
 }
