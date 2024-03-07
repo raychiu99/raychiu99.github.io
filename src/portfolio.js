@@ -10,7 +10,7 @@ import splashAnimation from "./assets/lottie/loading"; // Rename to your file na
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 1000 // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
@@ -26,7 +26,7 @@ const greeting = {
     "I'm a dedicated graduate student pursuing a Master's Degree in Applied Data Science at the University of Southern California with a strong focus on Data Science and Software engineering. My heart beats for crafting innovative software solutions, diving deep into the world of machine learning, and creating user-friendly interfaces."
   ),
     resumeLink:
-    "https://drive.google.com/file/d/1rA0GIkrjt4bMIFfKBMeHtQQq0tIJxzyf/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1cwZnV1xQkHTD-6LraWwCgHNIdf88oNfD/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -114,10 +114,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "C",
-      fontAwesomeClassname: "fa-C"
-    },
-    {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
     }
@@ -135,7 +131,7 @@ const educationInfo = {
       logo: require("./assets/images/uscLogo.png"),
       subHeader: "Master of Science in Applied Data Science",
       duration: "Jan 2023 - Dec 2024 (Expected)",
-      desc: "GPA: 3.7/4.0",
+      desc: "GPA: 3.8/4.0",
       descBullets: [
         "Related Courses: Data Structure & Algorithms, Data Management, Machine Learning, User Studies",
       ]
@@ -145,7 +141,7 @@ const educationInfo = {
       logo: require("./assets/images/ucscLogo.png"),
       subHeader: "Bachelor of Science in Computer Engineering, minor in Statistics",
       duration: "September 2018 - June 2022",
-      desc: "GPA 3.77/4.0, Cum laude",
+      desc: "GPA 3.8/4.0, Cum laude",
       descBullets: ["Related Courses: Applied Bayesian Statistics, Embedded System Design, Data Structure and Algorithms, Linear Algebra,  Logic design with Verilog, Principles of Computer Systems Design, Physics, Real Analysis, Signals and Systems "]
     }
   ]
@@ -177,6 +173,16 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Web Developer",
+      company: "USC Annenberg Media",
+      companylogo: require("./assets/images/annenbergmedia.png"),
+      date: "Feb 2024 - present",
+      descBullets: [
+        "Utilizes Okta and Arc Publishing to develop new site sections: recommended and liked articles, estimated reading time.",
+        "Collaborate with a diverse team of content creators, executes new features using React, and functionalities to elevate uscannenbergmedia.com platform, resulting in enriched user engagement."
+      ]
+    },
     {
       role: "Teaching Assistant",
       company: "Baskin Engineering, UCSC",
